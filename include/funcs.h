@@ -3,4 +3,6 @@
 
 void foo(void);
 
+void koo(void);
+
 #endif
