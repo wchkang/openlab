@@ -11,3 +11,4 @@ obj/funcs.o: src/funcs.c
 clean:
 	rm -f bin/myapp
 	rm -f obj/*.o
+
