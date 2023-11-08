@@ -14,5 +14,5 @@ void goo(void)
 
 void koo(int num)
 {
-	printf("%d: hello koo\n", num);
+	printf("hello koo %d\n", num);
 }
